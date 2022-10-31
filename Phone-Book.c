@@ -37,7 +37,7 @@ int main(void)
             printf("\n>>>>> ");
             scanf("%d", &secim);
         } while ((secim < 1 ) || (secim > 5));
-        system("cls");
+        system("clear");
         if(secim == 1)
         {
             rehber *gecici = (rehber*)malloc(sizeof(rehber)) ;
