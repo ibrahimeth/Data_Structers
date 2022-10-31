@@ -113,7 +113,7 @@ void Search(char tep[MAX])
         temp = temp->adres ;
         sayac++ ;
     }
-    printf("\nMaalesef Aradığınız isime veya soyisime sahip bir kayıt Bulunamadı !\n");
+    printf("\nMaalesef Aradığınız isime veya soyisime sahip bir kayıt Bulunamadı!\n");
 }
 void Listele()
 {
