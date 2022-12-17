@@ -1,5 +1,5 @@
 //contributed by ibrahimeth
-//Binary_Search_tree Serach Time to compare
+//Binary_Search_tree Serach Time to compare 
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
